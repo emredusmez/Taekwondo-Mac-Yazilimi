@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="taekwondo_skor" Class="databaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=localhost\sqlexpress;Initial Catalog=taekwondo_skor;Integrated Security=True" SettingsObjectName="TaekwondoSkor.Properties.Settings" SettingsPropertyName="taekwondo_skorConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Kayitlar" Member="Kayitlar">
+    <Type Name="Kayitlar">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="tarih" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="islem" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="macid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Maclar" Member="Maclar">
+    <Type Name="Maclar">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="kisi1" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="kisi2" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="tarih" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Sporcular" Member="Sporcular">
+    <Type Name="Sporcular">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ad" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Global_Veriler" Member="Global_Veriler">
+    <Type Name="Global_Veriler">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="mavirenk" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="kirmizirenk" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="arasuresi" Type="System.TimeSpan" DbType="Time NOT NULL" CanBeNull="false" />
+      <Column Name="maxpuansayi" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="maxpuan" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="raundsayisi" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="onikifarkpuani" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="sureartan" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="timeoutsureartan" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="vucutpuani" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="kafapuani" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="raundsuresi" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="skorrenk" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

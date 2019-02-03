@@ -1,0 +1,68 @@
+﻿<Window x:Class="TaekwondoSkor.frmAyarlar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaekwondoSkor"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="Ayarlar"  Background="{DynamicResource MaterialDesignPaper}" Height="357.294" Width="384.977" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <materialDesign:TimePicker
+            Style="{StaticResource MaterialDesignFloatingHintTimePicker}"
+  Is24Hours="True"
+  x:Name="txtRaundSuresi" materialDesign:HintAssist.Hint="Raund süresi" Margin="10,10,0,0" Foreground="White" HorizontalAlignment="Left" Width="178" Height="28" SelectedTimeFormat="Long" />
+        <GroupBox Header="Raund Süresi Gösterimi" HorizontalAlignment="Left" Height="91" Margin="10,43,0,0" VerticalAlignment="Top" Width="178">
+            <Grid Width="166" Height="40" VerticalAlignment="Top">
+                <RadioButton x:Name="rdbRaundArtan" Content="Artan" HorizontalAlignment="Left" VerticalAlignment="Top" Width="131" Height="22" Foreground="#FFA8A4A4"/>
+                <RadioButton x:Name="rdbRaundAzalan" Content="Azalan" HorizontalAlignment="Left" VerticalAlignment="Top" Width="131" Height="22" Foreground="#FFA8A4A4" Margin="0,22,0,0" IsChecked="True"/>
+            </Grid>
+        </GroupBox>
+        <ComboBox x:Name="cmbRaundSayisi" materialDesign:HintAssist.Hint="Raund sayısı"  Style="{StaticResource MaterialDesignFloatingHintComboBox}"
+                  HorizontalAlignment="Left" Margin="10,139,0,0" VerticalAlignment="Top" Width="178" Foreground="#FFE8E8E8"/>
+        <ComboBox x:Name="cmbVucutPuani"  Style="{StaticResource MaterialDesignFloatingHintComboBox}" materialDesign:HintAssist.Hint="Vücut Puanı" HorizontalAlignment="Left" Margin="99,182,0,0" VerticalAlignment="Top" Width="89" Foreground="#FFD9D3D3"/>
+        <ComboBox x:Name="cmbKafaPuani"  Style="{StaticResource MaterialDesignFloatingHintComboBox}" materialDesign:HintAssist.Hint="Kafa Puanı" HorizontalAlignment="Left" Margin="10,182,0,0" VerticalAlignment="Top" Width="84" Foreground="#FFD9D3D3"/>
+        <CheckBox x:Name="chbMaxPuan" Content="Max Puan" HorizontalAlignment="Left" Margin="10,234,0,0" VerticalAlignment="Top" Foreground="#FF909090" Height="21"/>
+        <ComboBox x:Name="cmbMaxPuan"   HorizontalAlignment="Left" Margin="99,226,0,0" VerticalAlignment="Top" Width="89" Foreground="#FFD9D3D3"/>
+        <CheckBox x:Name="chbOnikiFarkPuani" ToolTip="2. Raund sonu ve 2. raund'da ilk ulaşan kazanır" Content="20 Fark Puanı" HorizontalAlignment="Left" Margin="10,268,0,0" VerticalAlignment="Top" Foreground="#FF9D9595"/>
+        <materialDesign:TimePicker
+            Style="{StaticResource MaterialDesignFloatingHintTimePicker}"
+            Is24Hours="True"
+            x:Name="txtTimeOutSure" materialDesign:HintAssist.Hint="Timeout / Ara Süresi" Margin="193,10,0,0" Foreground="White" HorizontalAlignment="Left" Width="178" Height="28" SelectedTimeFormat="Long" />
+        <GroupBox Header="Timeout Süresi Gösterimi" HorizontalAlignment="Left" Height="91" Margin="193,43,0,0" VerticalAlignment="Top" Width="178">
+            <Grid Width="166" Height="41" VerticalAlignment="Top" Margin="0,0,0,-1">
+                <RadioButton x:Name="rdbTimeOutArtan" Content="Artan" HorizontalAlignment="Left" VerticalAlignment="Top" Width="131" Height="22" Foreground="#FFA8A4A4"/>
+                <RadioButton x:Name="rdbTimeOutAzalan" Content="Azalan" HorizontalAlignment="Left" VerticalAlignment="Top" Width="131" Height="22" Foreground="#FFA8A4A4" Margin="0,22,0,0" IsChecked="True"/>
+            </Grid>
+        </GroupBox>
+        <Button Content="Onayla" HorizontalAlignment="Left" Margin="213,289,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="Vazgeç" HorizontalAlignment="Left" Margin="293,289,0,0" VerticalAlignment="Top" Width="75"/>
+
+        <Border Name="KirmiziRenk" BorderThickness="1" BorderBrush="#FF673AB7" Margin="0,140,7.4,0" Height="42" VerticalAlignment="Top" HorizontalAlignment="Right" Width="85">
+            <xctk:ColorPicker x:Name="clrKirmiziRenk" ButtonStyle="{StaticResource MaterialDesignRaisedAccentButton}"  Margin="-0.8,-0.8,-1,-1.4" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="#FFFCFCFC" ColorMode="ColorCanvas" SelectedColorChanged="clrKirmiziRenk_SelectedColorChanged" AdvancedButtonHeader="Özel" StandardColorsHeader="Standart Renkler" 
+
+                          >
+
+            </xctk:ColorPicker>
+        </Border>
+        <Border Name="MaviRenk" BorderThickness="1" BorderBrush="#FF673AB7" Margin="0,191,7.4,0" Height="42" VerticalAlignment="Top" HorizontalAlignment="Right" Width="85">
+            <xctk:ColorPicker x:Name="clrMaviRenk" ButtonStyle="{StaticResource MaterialDesignRaisedAccentButton}"  Margin="-0.8,-0.8,-1,-1.4" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="#FFFCFCFC" ColorMode="ColorCanvas" SelectedColorChanged="clrMaviRenk_SelectedColorChanged" 
+
+                          >
+
+            </xctk:ColorPicker>
+        </Border>
+        <Border Name="SkorRenk" BorderThickness="1" BorderBrush="#FF673AB7" Margin="0,236,7.4,0" Height="42" VerticalAlignment="Top" HorizontalAlignment="Right" Width="85">
+            <xctk:ColorPicker x:Name="clrSkorRenk" ButtonStyle="{StaticResource MaterialDesignRaisedAccentButton}"  Margin="-0.8,-0.8,-1,-1.4" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="#FFFCFCFC" ColorMode="ColorCanvas" SelectedColorChanged="clrMaviRenk_SelectedColorChanged" 
+
+                          >
+
+            </xctk:ColorPicker>
+        </Border>
+        <Label Content="Kişi 1 Renk" HorizontalAlignment="Left" Margin="214,148,0,0" VerticalAlignment="Top"/>
+        <Label Content="Kişi 2 Renk" HorizontalAlignment="Left" Margin="214,191,0,0" VerticalAlignment="Top"/>
+        <Label Content="Skor Renk" HorizontalAlignment="Left" Margin="213,250,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chbSesEfekti" Content="Ses Efekti" HorizontalAlignment="Left" Margin="10,296,0,0" VerticalAlignment="Top" Width="178" Foreground="#FF9D9D9D"/>
+    </Grid>
+</Window>

@@ -1,0 +1,28 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaekwondoSkor"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="TaekwondoSkor.frmPuanDuzelt"
+        mc:Ignorable="d"
+        Title="Puan Düzelt"  Background="{DynamicResource MaterialDesignPaper}" Height="297.6" Width="186" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Height="265" Margin="0,0,0.2,0" VerticalAlignment="Top">
+
+        <Grid Margin="2,0,-2,0" HorizontalAlignment="Left" Width="179" Height="269" VerticalAlignment="Top">
+            <Label Content="Gam - Jeom" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="48,0,0,0" Height="25"/>
+            <Label Content="Deuk - Jeom" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="45,65,0,0" Height="26"/>
+            <Button x:Name="btnGamJeomMavi" Background="#FF0B189C" Height="36" Content="&lt;- 1 pt" Click="btnGamJeomMavi_Click" Margin="93,25,10,0" VerticalAlignment="Top"/>
+            <Button x:Name="btnGamJeomKirmizi" Background="#FFB70A0A" Height="36" Content="1 pt -&gt;" Click="btnGamJeomKirmizi_Click" Margin="0,23,101,0" VerticalAlignment="Top"/>
+            <Button x:Name="btnDeukJeomMavi" Background="#FF0B189C"  Height="36" Content="+1 pt" Click="btnDeukJeomMavi_Click" Margin="93,96,10,0" VerticalAlignment="Top"/>
+            <Button x:Name="btnDeukJeomKirmizi" Background="#FFB70A0A" Height="36" Content="+1 pt" Click="btnDeukJeomKirmizi_Click" Margin="0,97,101,0" VerticalAlignment="Top"/>
+            <Button x:Name="btnDeukJeomKirmizi_Copy" Background="#FFB70A0A" Height="37" Content="+1 pt" Margin="0,159,101,0" VerticalAlignment="Top" Click="btnDeukJeomKirmizi_Copy_Click"/>
+            <Label Content="Diğer" HorizontalAlignment="Left" Margin="66,134,0,0" VerticalAlignment="Top"/>
+            <Button x:Name="btnDeukJeomKirmizi_Copy1" Background="#FFB70A0A" Height="37" Content="-1 pt" Margin="0,221,101,0" VerticalAlignment="Top" Click="btnDeukJeomKirmizi_Copy1_Click"/>
+            <Button x:Name="btnDeukJeomMavi_Copy" Background="#FF0B189C"  Height="36" Content="+1 pt" Margin="93,159,10,0" VerticalAlignment="Top" Click="btnDeukJeomMavi_Copy_Click"/>
+            <Button x:Name="btnDeukJeomMavi_Copy1" Background="#FF0B189C"  Height="36" Content="-1 pt" Margin="93,221,10,0" VerticalAlignment="Top" Click="btnDeukJeomMavi_Copy1_Click"/>
+
+        </Grid>
+
+    </Grid>
+</Window>

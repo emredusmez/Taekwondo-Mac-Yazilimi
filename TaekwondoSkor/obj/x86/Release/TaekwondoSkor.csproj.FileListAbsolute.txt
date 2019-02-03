@@ -1,0 +1,167 @@
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\ARG.GIF
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\AUS.GIF
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\AZE.GIF
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\BEL.GIF
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\BLR.GIF
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\CAN.GIF
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\CHN.GIF
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\KAZ.GIF
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\NED.GIF
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\ROM.GIF
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\RUS.GIF
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\TTF.jpg
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\TTF2.jpg
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\TTF3.jpg
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\TUR.gif
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\flags\USA.GIF
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\media\mc1.mp3
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\media\mc2.mp3
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\media\mc3.mp3
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\TaekwondoSkor.exe.config
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\TaekwondoSkor.exe
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\TaekwondoSkor.pdb
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\Bass.Net.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\HidLibrary.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\MaterialDesignColors.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\NAudio.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\Xceed.Wpf.DataGrid.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\Bass.Net.xml
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\NAudio.xml
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\bin\x86\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmAyarlar.g.cs
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\FrmCihazTest.g.cs
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmGecmisKayitlar.g.cs
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmMacBitir.g.cs
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmMacBitti.g.cs
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmMacKayitlari.g.cs
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmPuanDuzelt.g.cs
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmSkorBoard.g.cs
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmSporcu.g.cs
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmTextDegistir.g.cs
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\MainWindow.g.cs
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\App.g.cs
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor_Content.g.cs
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor_MarkupCompile.cache
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor_MarkupCompile.lref
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\App.baml
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmAyarlar.baml
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\FrmCihazTest.baml
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmGecmisKayitlar.baml
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmMacBitir.baml
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmMacBitti.baml
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmMacKayitlari.baml
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmPuanDuzelt.baml
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmSkorBoard.baml
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmSporcu.baml
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\frmTextDegistir.baml
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\MainWindow.baml
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor.g.resources
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor.Properties.Resources.resources
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor.csproj.GenerateResource.Cache
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor.csproj.CoreCompileInputs.cache
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor.exe
+C:\Users\fd bilişim\Desktop\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor.pdb
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\ARG.GIF
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\AUS.GIF
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\AZE.GIF
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\BEL.GIF
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\BLR.GIF
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\CAN.GIF
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\CHN.GIF
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\KAZ.GIF
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\NED.GIF
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\ROM.GIF
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\RUS.GIF
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\TTF.jpg
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\TTF2.jpg
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\TTF3.jpg
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\TUR.gif
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\flags\USA.GIF
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\media\mc1.mp3
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\media\mc2.mp3
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\media\mc3.mp3
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\NAudio.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\media\cd.mp3
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\dbo.sql
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\TaekwondoSkor.exe.config
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\TaekwondoSkor.exe
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\TaekwondoSkor.pdb
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\Bass.Net.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\FoxLearn.License.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\HidLibrary.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\MaterialDesignColors.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\Xceed.Wpf.DataGrid.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\Bass.Net.xml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\NAudio.xml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\bin\x86\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor.csprojResolveAssemblyReference.cache
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmAyarlar.g.cs
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\FrmCihazTest.g.cs
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmGecmisKayitlar.g.cs
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmLisans.g.cs
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmMacBitir.g.cs
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmMacBitti.g.cs
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmMacKayitlari.g.cs
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmPuanDuzelt.g.cs
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmSkorBoard.g.cs
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmSporcu.g.cs
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmTextDegistir.g.cs
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\MainWindow.g.cs
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\App.g.cs
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor_Content.g.cs
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor_MarkupCompile.cache
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor_MarkupCompile.lref
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\App.baml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmAyarlar.baml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\FrmCihazTest.baml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmGecmisKayitlar.baml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmLisans.baml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmMacBitir.baml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmMacBitti.baml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmMacKayitlari.baml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmPuanDuzelt.baml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmSkorBoard.baml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmSporcu.baml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\frmTextDegistir.baml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\MainWindow.baml
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor.g.resources
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor.Properties.Resources.resources
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor.csproj.GenerateResource.cache
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor.csproj.CopyComplete
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor.exe
+C:\Users\emre\Desktop\masaüstü\Takwondo\TaekwondoSkor\obj\x86\Release\TaekwondoSkor.pdb
